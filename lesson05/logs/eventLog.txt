@@ -1,0 +1,1 @@
+20230705	00:01:20	349a8ea2-5602-4663-b2bf-f14c5753c60f	log event emitted
