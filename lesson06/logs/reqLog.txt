@@ -1,1 +1,11 @@
-20230705	00:06:07	993c6acf-1b3e-46a6-a226-c35f895bcd36	/new-page.html	GET20230705	00:06:08	0f50266c-636c-4ee7-abb8-83848ce442d4	/favicon.ico	GET
+20230707	22:46:37	21c87338-ac2b-4de8-8c64-1ba30e6525a8	GET 	 undefined 	 /css/style.css
+20230707	22:46:39	8bb6701c-ec30-4152-a7d6-50e454fec5f3	GET 	 undefined 	 /
+20230707	22:46:39	962f2fd7-9080-4759-8803-3318ca8953e2	GET 	 undefined 	 /css/style.css
+20230707	22:49:32	8e72c192-4a48-46ef-bcd4-b675ebe20bb6	GET 	 undefined 	 /
+20230707	22:49:32	cd2ede34-5710-4eff-8412-15d06625007b	GET 	 undefined 	 /css/style.css
+20230707	22:49:34	8af7a206-e33e-4cf5-99cd-8deedfab8db9	GET 	 undefined 	 /
+20230707	22:49:34	31c922f7-6893-4421-ab06-95eba040c9cf	GET 	 undefined 	 /css/style.css
+20230707	22:51:08	c30432bc-8dbd-4f18-b482-431ee5905242	OPTIONS 	 https://www.google.com 	 /
+20230707	22:51:08	82199a21-0490-4a4a-98a3-8794b49c5e91	GET 	 https://www.google.com 	 /
+20230707	23:00:05	9bc9f736-5a81-4743-8561-bc0d415c0986	OPTIONS 	 https://www.google.com 	 /
+20230707	23:00:05	2d833311-ded8-47e2-b98c-cd21d95100ed	GET 	 https://www.google.com 	 /
