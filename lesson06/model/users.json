@@ -1,1 +1,28 @@
-[{"username":"walt","password":"$2b$10$0DBTEeWximuaYvF0mt.sLur.JluXj8hPX8hFlJGfgNwfsvrmPGcuy"},{"username":"dave","password":"$2b$10$CciS4MVOY5uSVihRX4Adke8kSnWBnVUz3HeFIK7dR7PitfjgRW7QS","refreshToken":""}]
+[
+  {
+    "username":"walt",
+    "roles": {
+      "Admin": 5150, 
+      "Editor": 1984, 
+      "User": 2001
+    },
+    "password":"$2b$10$0DBTEeWximuaYvF0mt.sLur.JluXj8hPX8hFlJGfgNwfsvrmPGcuy"
+  },
+  {
+    "username":"dave",
+    "roles": { 
+      "User": 2001
+    },
+    "password":"$2b$10$CciS4MVOY5uSVihRX4Adke8kSnWBnVUz3HeFIK7dR7PitfjgRW7QS",
+    "refreshToken":""
+  }, 
+  {
+    "username":"ammar",
+    "roles": { 
+      "User": 2001, 
+      "Editor": 1984
+    },
+    "password":"$2b$10$CciS4MVOY5uSVihRX4Adaewfaehrsefvvdse5rvsdv",
+    "refreshToken":""
+  }
+]
