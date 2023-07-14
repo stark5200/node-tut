@@ -175,3 +175,6 @@
 20230713	21:10:07	5640411f-444a-4677-b948-2513e3963758	GET 	 undefined 	 /refresh
 20230713	21:10:10	3c0d4b61-e5d1-4b3b-a2f3-ec266ae0d0c5	GET 	 undefined 	 /logout
 20230713	21:10:11	5b631d12-640b-4ed6-b9aa-01c707f9d0aa	GET 	 undefined 	 /refresh
+20230714	00:48:09	452e1841-2660-4462-a6ad-b83f05a718d3	POST 	 undefined 	 /auth
+20230714	00:48:34	b2d03ef9-1089-49a3-b705-52903c799094	GET 	 undefined 	 /employees
+20230714	00:48:58	5346d3e5-d90d-4525-a0dd-9c561beeeaf9	POST 	 undefined 	 /employees
