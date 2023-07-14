@@ -178,3 +178,5 @@
 20230714	00:48:09	452e1841-2660-4462-a6ad-b83f05a718d3	POST 	 undefined 	 /auth
 20230714	00:48:34	b2d03ef9-1089-49a3-b705-52903c799094	GET 	 undefined 	 /employees
 20230714	00:48:58	5346d3e5-d90d-4525-a0dd-9c561beeeaf9	POST 	 undefined 	 /employees
+20230714	19:48:18	180312bb-9676-4c53-a36c-412677f6da6a	POST 	 undefined 	 /register
+20230714	19:48:49	aecc58df-44e2-4dca-8963-6e9e652f40df	POST 	 undefined 	 /register
