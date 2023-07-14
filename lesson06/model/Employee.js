@@ -3,11 +3,11 @@ const Schema = mongoose.Schema;
 
 const epmloyeeSchema = new Schema({
   firstname: {
-    type: string, 
+    type: String, 
     required: true
   }, 
   lastname: {
-    type: string, 
+    type: String, 
     required: true
   }
 });
